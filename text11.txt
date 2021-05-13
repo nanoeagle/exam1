@@ -1,4 +1,11 @@
 add a sentence.
 add one more sentence.
 add 1 more sentence.
-more
+more.
+add 1 more sentence from local.
+add 1 more sentence from remote.
+add 2nd more sentence from remote.
+add 2nd more sentence from local.
+add 3rd more sentence from remote.
+add 3rd more sentence from local.
+
